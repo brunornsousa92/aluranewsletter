@@ -36,6 +36,40 @@ Página Web desenvolvida durante o curso de Tailwind CSS: estilizando a sua pág
 
 </div> 
 
+◾ Alto poder para estilização - De cara a maior vantagem do Tailwind é o alto poder para estilização, de modo simples e com foco em responsividade. Em comparação com o Bootstrap, que para fazer a uma simples customização em um botão você precisa sobrescrever o CSS dele, o que não acontece com o TailwindCSS.
+
+<div align="center" >
+
+<img src="https://github.com/brunornsousa92/aluranewsletter/assets/17336588/c809b8b0-02d2-4b51-9f31-e53121484404" width="650" alt="Tailwind vs Bootstrap" >
+
+</div> 
+
+◾ Classes utilitárias - Facilidade em pesquisar na sua documentação e utilizar para estilizar elementos HTML.
+
+<div align="center">
+
+![Classes utilitarias](https://github.com/brunornsousa92/aluranewsletter/assets/17336588/49200033-121e-4ac1-8437-2998ccee3fce)
+
+ 
+</div>
+
+◾ Tailwind.config - para criar minhas próprias customizações.
+
+<div align="center">
+
+![Tailwind.config](https://github.com/brunornsousa92/aluranewsletter/assets/17336588/6a2cbc3a-5907-4c34-8d3d-32466e2cc296)
+ 
+</div>
+
+◾ Animações - A animação do sino onde foi utilizado pouquíssimas linhas de código, mostrando ainda mais o poder desse framework.
+
+<div align="center">
+
+![Gif Sino](https://github.com/brunornsousa92/aluranewsletter/assets/17336588/7ef9b838-06b3-46f3-adb6-c7d87bb0b2b5)
+ 
+</div>
+
+
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
